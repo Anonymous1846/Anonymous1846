@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharath Sunil</h1>
 <h3 align="center">A Life Long Computer Science Student !</h3>
-<h4>Always Learning And Building ...........</h4>
+<h4 align="center">Always Learning And Building............</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymous1846&label=Profile%20views&color=0e75b6&style=flat" alt="anonymous1846" /> </p>
 
