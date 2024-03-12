@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymous1846" alt="anonymous1846" /></a> </p>
 
-- 🌱 My Interests Include **Backend Web Development, Cloud Computing, OSINT (Open Source Intelligence), and Cybersecurity.**
+- 🌱 My Interests Include **Cybersecurity, Backend Web Development, OSINT (Open Source Intelligence), and Computer Networking.**
 
 - 📫 How to reach me **sharath2546@gmail.com**
 
