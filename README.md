@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **sharath2546@gmail.com**
 
+- Check out my [Roadmap.sh](https://roadmap.sh/u/whoknows)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
