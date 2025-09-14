@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymous1846" alt="anonymous1846" /></a> </p>
 
-- 🌱 I’m currently learning **React, OSINT**
+- 🌱 I’m currently learning **Spring Boot, C++**
 
 - 🤝 I’m looking for help with **React and OSINT**
 
